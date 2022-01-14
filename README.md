@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LautaroVH
-- 👀 I’m interested in development
+- 👀 I’m interested in learning new IT skills
 - 🌱 I’m currently learning javascript and others
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me lautarovh@outlook.com
