@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LautaroVH
 - 👀 I’m interested in learning new IT skills
-- 🌱 I’m currently learning javascript and others
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning java at University of General Sarmiento 
 - 📫 How to reach me lautarovh@outlook.com
 
 <!---
